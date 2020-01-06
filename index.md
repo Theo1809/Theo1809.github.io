@@ -18,4 +18,8 @@ Deux applications web mobiles sont prévues : une pour les utilisateurs du jukeb
 
 ### Schémas
 
-Schéma uml ici
+<img src="/UML.png">
+
+#### Liens utile
+
+Trello : https://trello.com/b/RHxLFRuw/projet-tutor%C3%A9-jukebox-2019-20
