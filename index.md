@@ -9,7 +9,8 @@ Deux applications web mobiles sont prévues : une pour les utilisateurs du jukeb
 
 ## Docuements
 
-
+[/Maquettes.pdf](url) and ![/Maquettes.pdf](src)
+[Maquettes.pdf](url) and ![Maquettes.pdf](src)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,8 +29,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[/Maquettes.pdf](url) and ![/Maquettes.pdf](src)
-[Maquettes.pdf](url) and ![Maquettes.pdf](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
