@@ -7,12 +7,15 @@ Le jukebox en lui-même sera installé sur une raspberry pi et permettra de diff
 Deux applications web mobiles sont prévues : une pour les utilisateurs du jukebox permettant d’ajouter des musiques à la liste d’attente, et une pour le propriétaire du jukebox lui permettant de gérer son état et la liste d’attente. Cette dernière est reliée à un service en ligne stockant les fichiers audios et permettant de créer ses playlists.
 
 
-## Docuements
+## Documents
 
 
 [Maquettes](/Maquettes.pdf)
 
 [Rapport de conception](/Rendu.pdf)
 
-[Présentation](/Presentation.pptx)
+[Présentation](/Présentation.pptx)
 
+### Schémas
+
+Schéma uml ici
