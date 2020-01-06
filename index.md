@@ -9,8 +9,8 @@ Deux applications web mobiles sont prévues : une pour les utilisateurs du jukeb
 
 ## Docuements
 
-[/Maquettes.pdf](url) and ![/Maquettes.pdf](src)
-[Maquettes.pdf](url) and ![Maquettes.pdf](src)
+[/Maquettes.pdf](/Maquettes.pdf) and ![/Maquettes.pdf](/Maquettes.pdf)
+[Maquettes.pdf](/Maquettes.pdf) and ![Maquettes.pdf](/Maquettes.pdf)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
