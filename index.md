@@ -18,9 +18,7 @@ Deux applications web mobiles sont prévues : une pour les utilisateurs du jukeb
 
 ### Schémas
 
-<img src="/UML.PNG">
-
-![UML](/UML.PNG)
+[Schéma uml](/UML.PNG)
 
 #### Liens utile
 
