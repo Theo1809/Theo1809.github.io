@@ -1,13 +1,15 @@
-Wassup
+# Description de notre projet
+
+L’objectif de ce projet tutoré est de concevoir et de réaliser un système de jukebox modernisé.
+
+Ce système doit permettre de passer de la musique en sélectionnant des morceaux dans une playlist pour les ajouter à la liste d’attente.
+Le jukebox en lui-même sera installé sur une raspberry pi et permettra de diffuser la musique et afficher la musique jouée ainsi que la liste d’attente 
+Deux applications web mobiles sont prévues : une pour les utilisateurs du jukebox permettant d’ajouter des musiques à la liste d’attente, et une pour le propriétaire du jukebox lui permettant de gérer son état et la liste d’attente. Cette dernière est reliée à un service en ligne stockant les fichiers audios et permettant de créer ses playlists.
 
 
-## Welcome to GitHub Pages
+## Docuements
 
-You can use the [editor on GitHub](https://github.com/Theo1809/Theo1809.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,7 +28,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[/Maquettes.pdf](url) and ![/Maquettes.pdf](src)
+[Maquettes.pdf](url) and ![Maquettes.pdf](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
