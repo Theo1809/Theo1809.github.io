@@ -1,3 +1,11 @@
+## L'équipe
+
+Notre équipe est composée de 4 membres de la LP2:
+- Thomas FARRUGGIA
+- Victor VANCOILLE
+- Lucas LIGEROT
+- Théo FRASCHINI
+
 ## Documents
 
 
@@ -26,3 +34,5 @@
 
 
 [Trello](https://trello.com/b/RHxLFRuw/projet-tutor%C3%A9-jukebox-2019-20)
+
+
