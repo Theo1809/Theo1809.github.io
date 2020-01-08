@@ -1,13 +1,31 @@
-# Description de notre projet
+### Ajoutez de la convivialité!
 
-L’objectif de ce projet tutoré est de concevoir et de réaliser un système de jukebox modernisé.
+Notre jukebox moderne vous permet de laisser vos clients choisir l'ambiance de votre établissement, en le rendant plus convivial!
 
-Ce système doit permettre de passer de la musique en sélectionnant des morceaux dans une playlist pour les ajouter à la liste d’attente.
-Le jukebox en lui-même sera installé sur une raspberry pi et permettra de diffuser la musique et afficher la musique jouée ainsi que la liste d’attente 
-Deux applications web mobiles sont prévues : une pour les utilisateurs du jukebox permettant d’ajouter des musiques à la liste d’attente, et une pour le propriétaire du jukebox lui permettant de gérer son état et la liste d’attente. Cette dernière est reliée à un service en ligne stockant les fichiers audios et permettant de créer ses playlists.
+Ceci est rendu possible en scannant un simple QR code, puis un en ajoutant à une liste d'attente une musique, disponible parmis une playlist que vous aurez sélectionné par avance
 
 
+### Choisissez votre ambiance!
+
+Choisissez une playlists de musiques parmis celles disponiblese, ou créez la votre selon vos goûts et vos attentes
+
+
+### Laissez le public gérer ...
+
+Une fois le QR code scanné, en plus d'ajouter une musique à la file d'attente, un utilisateur peut voter pour passer une musique, pour accéder directement à la musique qu'il vient d'ajouter ou encore pour laisser un avis sur votre playlist
+
+### ... ou gardez la main!
+
+Vous pouvez paramétrer votre jukebox de façon à ce qu'il soit impossible de passer 2 fois la même musique par exemple!
+Vous pouvez également passer manuellement une musique, supprimer une musique de la file d'attente ou encore expulser un utilisateur de votre jukebox!
+
+
+### Nous contacter
+
+Vous pouvez nous contacter à l'adresse : theo.fraschini@etu.univ-lorraine.fr , nous serons ravis de répondre à vos questions
 
 [Qui sommes-nous?](/aboutUs.md)
+
+
 
 
