@@ -1,7 +1,3 @@
-
- Jukebox moderne
-
-
 # Description de notre projet
 
 L’objectif de ce projet tutoré est de concevoir et de réaliser un système de jukebox modernisé.
