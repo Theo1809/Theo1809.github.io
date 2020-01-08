@@ -6,6 +6,14 @@ Notre équipe est composée de 4 membres de la LP2:
 - Lucas LIGEROT
 - Théo FRASCHINI
 
+
+## Description du projet
+
+Ce système doit permettre de passer de la musique en sélectionnant des morceaux dans une playlist pour les ajouter à la liste d’attente.
+Le jukebox en lui-même sera installé sur une raspberry pi et permettra de diffuser la musique et afficher la musique jouée ainsi que la liste d’attente 
+Deux applications web mobiles sont prévues : une pour les utilisateurs du jukebox permettant d’ajouter des musiques à la liste d’attente, et une pour le propriétaire du jukebox lui permettant de gérer son état et la liste d’attente. Cette dernière est reliée à un service en ligne stockant les fichiers audios et permettant de créer ses playlists.
+
+
 ## Documents
 
 
