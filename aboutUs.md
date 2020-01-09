@@ -34,7 +34,8 @@ Deux applications web mobiles sont prévues : une pour les utilisateurs du jukeb
 
 
 [Lundi 06/01](/Compte-rendu 06_01_2020.pdf) <br/>
-[Mardi 07/01](/Compte-rendu 07_01_2020.pdf)
+[Mardi 07/01](/Compte-rendu 07_01_2020.pdf) <br/>
+[Mercredi 08/01](/Compte-rendu 08_01_2020.pdf)
 
 
 
