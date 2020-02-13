@@ -33,11 +33,9 @@ Deux applications web mobiles sont prévues : une pour les utilisateurs du jukeb
 ## Comptes rendus quotidiens
 
 
-[Lundi 06/01](/Compte-rendu 06_01_2020.pdf) <br/>
-[Mardi 07/01](/Compte-rendu 07_01_2020.pdf) <br/>
-[Mercredi 08/01](/Compte-rendu 08_01_2020.pdf) <br/>
-[Jeudi 09/01](/Compte-rendu 09_01_2020.pdf) <br/>
-[Vendredi 10/01](/Compte-rendu 10_01_2020.pdf)
+[Semaine du 06/01](/Comptes-rendus semaine du 06/01/2020.pdf) <br/>
+[Semaine du 10/02](/Comptes-rendus semaine du 10/02/2020.pdf) (en cours) <br/>
+
 
 
 
