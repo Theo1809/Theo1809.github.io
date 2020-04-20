@@ -35,7 +35,7 @@ Deux applications web mobiles sont prévues : une pour les utilisateurs du jukeb
 
 [Semaine du 06/01](/Comptes-rendus semaine du 06_01_2020.pdf) <br/>
 [Semaine du 10/02](/Comptes-rendus semaine du 10_02_2020.pdf) (en cours) <br/>
-
+[PPT](/Projet tutoré FINAL.pptx) <br/>
 
 
 
